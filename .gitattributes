@@ -1,0 +1,11 @@
+*.sch -linguist-detectable
+*.brd -linguist-detectable
+*.GBL -linguist-detectable
+*.GBO -linguist-detectable
+*.GBS -linguist-detectable
+*.GKO -linguist-detectable
+*.GTL -linguist-detectable
+*.GTO -linguist-detectable
+*.GTP -linguist-detectable
+*.GTS -linguist-detectable
+*.XLN -linguist-detectable
